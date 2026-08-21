@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineer Intern @ L3Harris and rising senior @ Illinois Tech</p>
+<p align="left">Software Engineer @ L3Harris</p>
 
 ###
 

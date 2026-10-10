@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Jason</h2>
-
 ###
 
 <p align="left">Software Engineer @ L3Harris</p>
